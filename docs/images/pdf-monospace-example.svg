@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect x="0" y="0" width="1400" height="900" fill="#ffffff"/>
+  <rect x="60" y="50" width="1280" height="800" rx="16" fill="#fafafa" stroke="#c8c8c8" stroke-width="3"/>
+  <rect x="60" y="50" width="1280" height="120" fill="#f1f1f1" stroke="#c8c8c8" stroke-width="2"/>
+  <text x="90" y="96" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#222">Backup Report: Bacula Full Backup - srv-db01</text>
+  <text x="90" y="138" font-family="Arial, sans-serif" font-size="24" fill="#444">Email Date: 2026-04-04 02:13:10 UTC    Sender: bacula@backup.local</text>
+
+  <text x="90" y="230" font-family="'Courier New', monospace" font-size="26" fill="#222" xml:space="preserve">JobId 5829: Start Backup Job at 2026-04-04 02:00:00</text>
+  <text x="90" y="270" font-family="'Courier New', monospace" font-size="26" fill="#222" xml:space="preserve">Client: srv-db01-fd    Fileset: Linux-Prod-Full</text>
+  <text x="90" y="310" font-family="'Courier New', monospace" font-size="26" fill="#222" xml:space="preserve">Level: Full            Storage: TapePool-01</text>
+
+  <text x="90" y="390" font-family="'Courier New', monospace" font-size="26" fill="#222" xml:space="preserve">  Files Examined:      1,204,883</text>
+  <text x="90" y="430" font-family="'Courier New', monospace" font-size="26" fill="#222" xml:space="preserve">  Files Backed Up:       348,221</text>
+  <text x="90" y="470" font-family="'Courier New', monospace" font-size="26" fill="#222" xml:space="preserve">  Bytes Written:      892.4 GB</text>
+  <text x="90" y="510" font-family="'Courier New', monospace" font-size="26" fill="#222" xml:space="preserve">  Errors:                   0</text>
+  <text x="90" y="550" font-family="'Courier New', monospace" font-size="26" fill="#222" xml:space="preserve">  Status:              Backup OK</text>
+
+  <text x="90" y="640" font-family="'Courier New', monospace" font-size="26" fill="#222" xml:space="preserve">Termination: Backup OK -- no errors.</text>
+</svg>

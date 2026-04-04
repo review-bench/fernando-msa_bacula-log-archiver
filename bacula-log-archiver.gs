@@ -1,4 +1,4 @@
-var SCRIPT_RELEASE = "v1.0.0-stable";
+var SCRIPT_RELEASE = "v1.0.0";
 
 function salvarLogsBaculaComoPDFEstilizado() {
   var nomeMarcador = "Backup HAMA";
